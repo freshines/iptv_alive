@@ -35,7 +35,7 @@ http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV6",CCTV17
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 央视频道,#genre#
-CCTV-1Ahttp://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
+CCTV-1A,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
 CCTV-1B,http://[2409:8087:74d9:21::9]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
