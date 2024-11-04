@@ -1,6 +1,41 @@
-
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视IPV6",CCTV1
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视IPV6",CCTV2
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视IPV6",CCTV3
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视IPV6",CCTV4
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000503
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视IPV6",CCTV5
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000005
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视IPV6",CCTV5+
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000507
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视IPV6",CCTV6
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000006
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视IPV6",CCTV7
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000504
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视IPV6",CCTV8
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000008
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视IPV6",CCTV9
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000505
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视IPV6",CCTV10
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000506
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视IPV6",CCTV11
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000508
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视IPV6",CCTV12
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000509
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视IPV6",CCTV13
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000510
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视IPV6",CCTV14
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000511
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV6",CCTV15
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000512
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV6",CCTV16
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV6",CCTV17
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 央视频道,#genre#
-CCTV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-1,http://[2409:8087:74d9:21::9]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
